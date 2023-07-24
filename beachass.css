@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+    margin-top: 240px;
+    font-size: 318%;
+    color: rgb(146,98,57);
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+#sub{
+    text-align: center;
+    font-size: 127%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(146,98,57);
+    margin-top: 5px;
+   
+    
+}
+#first{
+    background-image: url(../img/Wallpaper\ \(1\).jpg);
+    border: 1px solid black;
+}
+
+button{
+    margin-bottom: 290px;
+    background-color: white;
+    border:1px solid rgb(146,98,57);
+    padding: 15px 20px;
+    border-radius: 15%;
+    margin-top: 15px;
+    font-size:medium;
+    color: rgb(146,98,57);
+    
+}
+button:hover{
+    background-color:rgb(146,98,57) ;
+    color: white;
+}
+
+
+
+#s1{
+    background-color:rgb(146,98,57);
+    color: white;
+    text-align: center;}
+#s2{
+    background-color: rgb(244,244,244);
+    text-align: center;
+    color:rgb(146,98,57);
+}
+#s3,#s5{
+    background-color:rgb(146,98,57) ;
+    display:inline-block;
+    width: 385px;
+    color: white;
+    min-width: 300px;
+    text-align: left;
+    padding-left:15px ;
+    padding-right: 20x;
+
+}
+#s4{
+    background-color: rgb(249,249,249);
+    width: 470px;
+    color:rgb(146,98,57) ;
+    display: inline-block;
+    text-align: left;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+.ar{
+    font-size: 17px;
+    padding: 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 40px;
+    line-height: 160%;
+}
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
